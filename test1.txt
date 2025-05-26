@@ -8,4 +8,4 @@ support & service engineer
 IT Engineer in rokomari	
 gitignor (touch .gitignore)
 git aliases
-
+bug edit 1st
