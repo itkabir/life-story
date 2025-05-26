@@ -6,3 +6,6 @@ My self Md Humayun Kabir
 I am an rokomarian
 support & service engineer 
 IT Engineer in rokomari	
+gitignor (touch .gitignore)
+git aliases
+
